@@ -69,6 +69,6 @@ Principais características:
 
 ## 📫 Contato
 
-* LinkedIn: [seu-link]
-* E-mail: seu-email
+* LinkedIn: https://www.linkedin.com/in/vivian-krieck-a53898150/
+* E-mail: vivian_pereira@outlook.com.br
 * GitHub: github.com/viviankrieck
